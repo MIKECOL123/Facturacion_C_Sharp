@@ -20,7 +20,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.CSharp" Version="4.4.1" />
     <PackageReference Include="RestSharp" Version="106.2.2" />
-    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\submodule\FirmaXadesNet45\FirmaXadesNet\FirmaXadesNet.csproj" />
